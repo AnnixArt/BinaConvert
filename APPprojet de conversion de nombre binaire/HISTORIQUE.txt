@@ -1,0 +1,3 @@
+Decimal en Hexa Decimal: 10101 => 2775
+Decimal en Hexa Decimal: 15 => F
+Decimal en Hexa Decimal: 16 => 10
